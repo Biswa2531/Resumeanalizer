@@ -1,4 +1,4 @@
-# 📄 Premium AI Resume Analyzer
+# 📄 AI Resume Analyzer
 
 <p align="center">
   <b>Advanced ATS Resume Analysis & Candidate Dashboard</b><br>
